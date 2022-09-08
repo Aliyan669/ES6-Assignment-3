@@ -1,0 +1,46 @@
+*{
+    margin: 10;
+    padding: 0;
+    box-sizing: border-box;
+  
+      justify-content: center;
+}
+#mobileName{
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+    background-color: darkcyan;
+    height: 5vh;
+    color: white;
+    border-radius: 5%;
+    border: 2px solid black;
+}
+#model{
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+    background-color: darkcyan;
+    height: 5vh;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5%;
+
+
+}
+#btn{
+    width: 70px;
+    text-align: center;
+    font-weight: bold;
+    background-color: black;
+    height: 5vh;
+    color: white;
+    border-radius: 5%;
+   
+}
+.hello{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+  
+
+}
